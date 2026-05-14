@@ -104,8 +104,3 @@ Mewtwo,106,110,90,154,90,130,Legendary
 - `numpy` — numerical computation
 - `matplotlib` + `seaborn` — visualizations
 - `scikit-learn` — KNN classifier and evaluation metrics
-
----
-
-## 👤 Author
-Data Mining and Business Intelligence | Special Laboratory Project
